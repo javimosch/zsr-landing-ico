@@ -5,7 +5,7 @@ module.exports = {
    ** Headers of the page
    */
   head: {
-    title: 'LATOURIMMO - Admin Backoffice',
+    title: 'zeshopr - Social E-Commerce',
     meta: [{
       charset: 'utf-8'
     }, {
